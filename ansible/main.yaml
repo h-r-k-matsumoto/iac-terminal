@@ -1,0 +1,4 @@
+- hosts: web
+  tasks:
+  - name: hello
+    debug: msg="Hello world"
