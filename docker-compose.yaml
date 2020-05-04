@@ -1,7 +1,7 @@
 version: '3.7'
 services:
   shell:
-    image: iac-terminal:0.0.1
+    image: hirokimatsumoto/iac-terminal:1.0.0
     # build: .
     container_name: iac-terminal
 
